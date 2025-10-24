@@ -84,6 +84,5 @@ if __name__ == "__main__":
 
 ### OUTPUT:
 ![alt text](<Screenshot 2025-10-03 110920.png>)
-![alt text](<Screenshot 2025-10-03 110920.png>)
 ### RESULT:
 The chatbot was successfully implemented. It accurately retrieved and answered queries from the PDF document, demonstrating the effectiveness of LangChain in building document-based conversational AI.
